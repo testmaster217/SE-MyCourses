@@ -1,1 +1,2 @@
 SE 3900 - Software Requirements Engineering (3)
+SE 4930 - Software Testing and Quality Assurance (3)
