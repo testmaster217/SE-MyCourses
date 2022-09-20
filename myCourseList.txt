@@ -1,4 +1,7 @@
 SE 3900 - Software Requirements Engineering (3)
 SE 4930 - Software Testing and Quality Assurance (3)
 SE 4940 - Software Design and Architecture
-SE 4920 - Senior Project
+SE 4920 - Senior Project (3)
+
+CYBR 1500 - Command Line Environments (3)
+CYBR 1800 - Introduction to Cybersecurity (3)
