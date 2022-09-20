@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 SE 3900 - Software Requirements Engineering (3)
 SE 4930 - Software Testing and Quality Assurance (3)
+=======
+CYBR 1500 - Command line Enviroments (3)
+CYBR 1800 - Introduction to Cybersecurity (3)
+>>>>>>> ver2
