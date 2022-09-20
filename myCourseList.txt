@@ -5,3 +5,6 @@ SE 4920 - Senior Project (3)
 
 CYBR 1500 - Command Line Environments (3)
 CYBR 1800 - Introduction to Cybersecurity (3)
+CYBR 3130 - Secure Programming (3)
+CYBR 3510 - Systems Security (3)
+CYBR 3820 - Usable Privacy and Security (3)
