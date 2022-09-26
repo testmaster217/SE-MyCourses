@@ -1,1 +1,2 @@
 # myCourses
+# SE-MyCourses
